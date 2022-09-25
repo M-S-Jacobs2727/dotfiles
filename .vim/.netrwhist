@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/proj/avdlab/users/mjacobs9/Decoding/melt_1024_phantom'
+let g:netrw_dirhist_1='/proj/dobryninlab/users/mjacobs9/hoomd-test/minimize'

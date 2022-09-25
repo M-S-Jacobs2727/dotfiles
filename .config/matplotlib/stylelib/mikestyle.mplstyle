@@ -1,0 +1,11 @@
+axes.titlesize : 28
+axes.labelsize : 24
+xtick.labelsize : 18
+ytick.labelsize : 18
+mathtext.fontset : dejavuserif
+font.family : serif
+figure.subplot.left : 0.175
+figure.subplot.right : 0.950
+figure.subplot.bottom : 0.150
+figure.subplot.top : 0.880
+
